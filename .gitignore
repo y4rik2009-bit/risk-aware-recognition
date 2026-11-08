@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+results/raw/
+*.pt
+*.env
+.env*
+reports/demo.json
+reports/*.png
